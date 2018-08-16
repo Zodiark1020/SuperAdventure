@@ -1,0 +1,6 @@
+C:\Users\I7-ASUS\Desktop\Game Projects\C# projects\sources\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Users\I7-ASUS\Desktop\Game Projects\C# projects\sources\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Users\I7-ASUS\Desktop\Game Projects\C# projects\sources\SuperAdventure\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\I7-ASUS\Desktop\Game Projects\C# projects\sources\SuperAdventure\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\I7-ASUS\Desktop\Game Projects\C# projects\sources\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Users\I7-ASUS\Desktop\Game Projects\C# projects\sources\SuperAdventure\Engine\obj\Debug\Engine.pdb

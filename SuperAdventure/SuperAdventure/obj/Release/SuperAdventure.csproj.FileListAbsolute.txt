@@ -1,0 +1,13 @@
+C:\Users\I7-ASUS\Desktop\Game Projects\C# projects\sources\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.exe.config
+C:\Users\I7-ASUS\Desktop\Game Projects\C# projects\sources\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.exe
+C:\Users\I7-ASUS\Desktop\Game Projects\C# projects\sources\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.pdb
+C:\Users\I7-ASUS\Desktop\Game Projects\C# projects\sources\SuperAdventure\SuperAdventure\bin\Release\Engine.dll
+C:\Users\I7-ASUS\Desktop\Game Projects\C# projects\sources\SuperAdventure\SuperAdventure\bin\Release\Engine.pdb
+C:\Users\I7-ASUS\Desktop\Game Projects\C# projects\sources\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csprojAssemblyReference.cache
+C:\Users\I7-ASUS\Desktop\Game Projects\C# projects\sources\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.Properties.Resources.resources
+C:\Users\I7-ASUS\Desktop\Game Projects\C# projects\sources\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.SuperAdventure.resources
+C:\Users\I7-ASUS\Desktop\Game Projects\C# projects\sources\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csproj.GenerateResource.cache
+C:\Users\I7-ASUS\Desktop\Game Projects\C# projects\sources\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csproj.CoreCompileInputs.cache
+C:\Users\I7-ASUS\Desktop\Game Projects\C# projects\sources\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csproj.CopyComplete
+C:\Users\I7-ASUS\Desktop\Game Projects\C# projects\sources\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.exe
+C:\Users\I7-ASUS\Desktop\Game Projects\C# projects\sources\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.pdb
